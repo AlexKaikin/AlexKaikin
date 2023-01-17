@@ -8,7 +8,7 @@ I am a Frontend React Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, read tech articles.
+- :zap: In my free time read tech articles.
 
 ---
 
